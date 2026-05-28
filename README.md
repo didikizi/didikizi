@@ -43,11 +43,6 @@ P. S. Ищу работу буду рад предложениям)
 ### 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=didikizi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didikizi&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="170" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=didikizi&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
