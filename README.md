@@ -17,6 +17,11 @@
 - 🧩 Решаю алгоритмические задачи на LeetCode
 - 📫 Связаться: vadem4443@mail.ru/@Vadem199
 
+<p align="center">
+  <a href="https://t.me/@Vadem199"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
+</p>
+
+
 P. S. Ищу работу буду рад предложениям)
 
 ---
@@ -56,16 +61,3 @@ P. S. Ищу работу буду рад предложениям)
 
 ---
 
-### 🏆 Трофеи
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=didikizi&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="trophies" />
-</p>
-
----
-
-<p align="center">
-  <!-- Соцсети — раскомментируй и подставь свои ссылки -->
-  <!-- <a href="https://t.me/yourname"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> -->
-  <!-- <a href="https://x.com/yourname"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> -->
-</p>
